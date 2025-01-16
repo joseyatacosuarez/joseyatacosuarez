@@ -35,7 +35,17 @@ Profesional en desarrollo y soporte RPA con experiencia en diseño, automatizaci
 - **APIs y Herramientas**: Web API Rest, Postman, SharePoint, ServiceNow
 - **Metodologías y Arquitectura**: Metodología Scrum, Arquitectura de Software
 - **Control de versiones**: Git, GitHub
+  
+---
 
+## 🌟 Habilidades Blandas
+- Comunicación Efectiva
+- Trabajo en Equipo
+- Resolución de Problemas
+- Pensamiento Crítico
+- Gestión del Tiempo
+- Aprendizaje Continuo
+  
 ---
 
 ## 📈 Experiencia
@@ -44,7 +54,7 @@ Experiencia en diseño, desarrollo y mantenimiento de bots, optimización de pro
 ---
 
 ## 📫 Contacto
-- **LinkedIn**: [Tu perfil de LinkedIn aquí](#)
+- **LinkedIn**: [https://www.linkedin.com/in/jose-gabriel-yataco-suarez-62b375261](#)
 - **Correo electrónico**: [joseyatacosuarez29@gmail.com](#)
 - **GitHub**: [https://github.com/joseyatacosuarez](#)
 
