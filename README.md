@@ -1,16 +1,55 @@
-## Hi there 👋
+# Jose Gabriel Yataco Suarez
 
-<!--
-**joseyatacosuarez/joseyatacosuarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Sobre mí
+Profesional en desarrollo y soporte RPA con experiencia en diseño, automatización y optimización de procesos. Especializado en la integración de tecnologías, gestión de bases de datos y análisis de sistemas. Proactivo, autodidacta y enfocado en mejorar continuamente, implementando soluciones eficientes que impulsan la productividad y la innovación tecnológica.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Formación Académica
+- **Egresado en Ingeniería de Sistemas**  
+  Universidad Nacional del Callao
+
+---
+
+## 🏆 Certificaciones
+- **Automation Anywhere Certified Advanced RPA Professional** (2023)
+- **Certified Advanced Automation Professional** (2024)
+
+---
+
+## 📚 Cursos
+- RPA Developer (Automation Anywhere)
+- RPA Developer (UIPath Academy)
+- PL-500T00-A: Desarrollador de RPA con Power Automate de Microsoft
+---
+
+## 🌐 Idiomas
+- **Inglés**: Básico
+
+---
+
+## 💼 Conocimientos Técnicos
+- **RPA**: Automation Anywhere 360, UiPath, Power Automate Desktop
+- **Programación**: JavaScript, Python, Visual Studio .NET (C#, VB.NET)
+- **Base de datos**: SQL Server, PL/SQL
+- **APIs y Herramientas**: Web API Rest, Postman, SharePoint, ServiceNow
+- **Metodologías y Arquitectura**: Metodología Scrum, Arquitectura de Software
+- **Control de versiones**: Git, GitHub
+
+---
+
+## 📈 Experiencia
+Experiencia en diseño, desarrollo y mantenimiento de bots, optimización de procesos empresariales, y soporte a sistemas de automatización. Habilidad para trabajar en equipo, gestionar bases de datos y contribuir al desarrollo de soluciones tecnológicas.
+
+---
+
+## 📫 Contacto
+- **LinkedIn**: [Tu perfil de LinkedIn aquí](#)
+- **Correo electrónico**: [joseyatacosuarez29@gmail.com](#)
+- **GitHub**: [https://github.com/joseyatacosuarez](#)
+
+---
+
+¡Gracias por visitar mi perfil profesional! Estoy siempre abierto a nuevas oportunidades y desafíos que me permitan seguir creciendo en el mundo de la ingeniería de sistemas y automatización.
+
+
